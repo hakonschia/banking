@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Banking</string>
+
+    <!-- Main Activity -->
+    <string name="btn_transaction">My Transactions</string>
+    <string name="btn_transfer">Transfer</string>
+    <string name="lblFixed_Balance">Balance [EUR]</string>
+
+    <!-- Transfer Activity -->
+    <string name="lblFixed_recipient">Recipient</string>
+    <string name="lblFixed_amount">Amount [EUR]</string>
+    <string name="btn_pay">Pay</string>
+    <string name="txt_amount_hint">100</string>
+
+    <!-- Transaction Activity -->
+    <string name="lblFixed_transaction">Your transactions</string>
+
+</resources>
